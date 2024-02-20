@@ -1,40 +1,40 @@
-# Virtual Environment
-venv/
-env/
+# # Virtual Environment
+# venv/
+# env/
 
-# Compiled Python files
-*.pyc
-__pycache__/
+# # Compiled Python files
+# *.pyc
+# __pycache__/
 
-# IDE/Editor specific files
-.vscode/
-.idea/
-.vs/
+# # IDE/Editor specific files
+# .vscode/
+# .idea/
+# .vs/
 
-# Logs and Temporary files
-*.log
-*.tmp
+# # Logs and Temporary files
+# *.log
+# *.tmp
 
-# Configuration files
-*.ini
-*.cfg
-*.conf
+# # Configuration files
+# *.ini
+# *.cfg
+# *.conf
 
-# Database files
-!db.sqlite
+# # Database files
+# !db.sqlite
 
-# Generated files
-instance/
+# # Generated files
+# instance/
 
-# Environment variables
-.env
+# # Environment variables
+# .env
 
-# Dependency and build directories
-__pycache__/
-node_modules/
+# # Dependency and build directories
+# __pycache__/
+# node_modules/
 
-# Git configuration directory
-.git/
+# # Git configuration directory
+# .git/
 
-# Optimized Python files
-*.pyo
+# # Optimized Python files
+# *.pyo
