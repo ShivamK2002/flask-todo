@@ -21,7 +21,7 @@ __pycache__/
 *.conf
 
 # Database files
-db.sqlite
+!db.sqlite
 
 # Generated files
 instance/
